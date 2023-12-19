@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_m307f.mk
+    $(LOCAL_DIR)/derp_m307f.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m307f-eng \
-    lineage_m307f-user \
-    lineage_m307f-userdebug
+    derp_m307f-eng \
+    derp_m307f-user \
+    derp_m307f-userdebug
